@@ -3,7 +3,7 @@ This is a minimal weather app for iOS that pulls data from the OpenWeatherMap AP
 
 Currently, the functions of this app include:
 - Pulling 5 day weather data of a location
-- Analyzing the overall weather of the current day, and display a message that summarizes it, as well as advise the user what to wear
+- Analyzing the overall weather of the current day, and display a message that summarizes it
 
 Future functions and goals:
 - Push a notification to the user every morning or night that summarizes the current or next day's overall forecast.
