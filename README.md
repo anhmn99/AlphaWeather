@@ -1,7 +1,7 @@
 # AlphaWeather
 This is a minimal weather app for iOS that pulls data from the OpenWeatherMap API and outputs to the user what the overall weather for the day is.
 
-Currently, the function of this app include:
+Currently, the functions of this app include:
 - Pulling 5 day weather data of a location
 - Analyzing the overall weather of the current day, and display a message that summarizes it, as well as advise the user what to wear
 
